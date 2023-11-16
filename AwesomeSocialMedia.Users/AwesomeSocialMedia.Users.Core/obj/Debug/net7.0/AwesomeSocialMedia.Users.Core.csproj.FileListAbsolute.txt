@@ -1,0 +1,11 @@
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\bin\Debug\net7.0\AwesomeSocialMedia.Users.Core.deps.json
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\bin\Debug\net7.0\AwesomeSocialMedia.Users.Core.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\bin\Debug\net7.0\AwesomeSocialMedia.Users.Core.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.AssemblyInfoInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.AssemblyInfo.cs
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.csproj.CoreCompileInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\refint\AwesomeSocialMedia.Users.Core.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\AwesomeSocialMedia.Users.Core.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Core\obj\Debug\net7.0\ref\AwesomeSocialMedia.Users.Core.dll

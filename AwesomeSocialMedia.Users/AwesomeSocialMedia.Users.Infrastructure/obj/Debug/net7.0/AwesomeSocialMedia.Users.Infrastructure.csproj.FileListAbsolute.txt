@@ -1,0 +1,15 @@
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.csproj.AssemblyReference.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.AssemblyInfoInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.AssemblyInfo.cs
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\bin\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.deps.json
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\bin\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\bin\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\bin\Debug\net7.0\AwesomeSocialMedia.Users.Core.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\bin\Debug\net7.0\AwesomeSocialMedia.Users.Core.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.csproj.CopyComplete
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\refint\AwesomeSocialMedia.Users.Infrastructure.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\AwesomeSocialMedia.Users.Infrastructure.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Users\AwesomeSocialMedia.Users.Infrastructure\obj\Debug\net7.0\ref\AwesomeSocialMedia.Users.Infrastructure.dll

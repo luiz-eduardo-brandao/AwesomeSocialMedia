@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.API\\AwesomeSocialMedia.Users.API.csproj": {}
+  },
+  "projects": {
+    "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.API\\AwesomeSocialMedia.Users.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.API\\AwesomeSocialMedia.Users.API.csproj",
+        "projectName": "AwesomeSocialMedia.Users.API",
+        "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.API\\AwesomeSocialMedia.Users.API.csproj",
+        "packagesPath": "C:\\Users\\Luiz Brandão\\.nuget\\packages\\",
+        "outputPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Brandão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/webapi/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\AwesomeSocialMedia.Users.Application.csproj": {
+                "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\AwesomeSocialMedia.Users.Application.csproj"
+              },
+              "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj": {
+                "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\AwesomeSocialMedia.Users.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\AwesomeSocialMedia.Users.Application.csproj",
+        "projectName": "AwesomeSocialMedia.Users.Application",
+        "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\AwesomeSocialMedia.Users.Application.csproj",
+        "packagesPath": "C:\\Users\\Luiz Brandão\\.nuget\\packages\\",
+        "outputPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Brandão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/webapi/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj": {
+                "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj"
+              },
+              "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj": {
+                "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj",
+        "projectName": "AwesomeSocialMedia.Users.Core",
+        "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj",
+        "packagesPath": "C:\\Users\\Luiz Brandão\\.nuget\\packages\\",
+        "outputPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Brandão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/webapi/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj",
+        "projectName": "AwesomeSocialMedia.Users.Infrastructure",
+        "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\AwesomeSocialMedia.Users.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Luiz Brandão\\.nuget\\packages\\",
+        "outputPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Brandão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/webapi/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj": {
+                "projectPath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.10.8, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

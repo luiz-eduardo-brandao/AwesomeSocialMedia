@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvABvGtWWcuXvEB6/ViV0DmWSB92oG+h2/2saWHMMsPh/8aUio6auXNw9kVXPMzAua5bYX0vFHOyaqSHmER5KQ==",
+  "success": true,
+  "projectFilePath": "C:\\edu\\courses\\AwesomeSocialMedia\\AwesomeSocialMedia.Users\\AwesomeSocialMedia.Users.Core\\AwesomeSocialMedia.Users.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.signa.net.br/webapi/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Application.deps.json
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Application.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Application.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Core.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Infrastructure.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Core.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\bin\Debug\net7.0\AwesomeSocialMedia.Posts.Infrastructure.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.csproj.AssemblyReference.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.AssemblyInfoInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.AssemblyInfo.cs
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.csproj.CoreCompileInputs.cache
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.csproj.CopyComplete
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\refint\AwesomeSocialMedia.Posts.Application.dll
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\AwesomeSocialMedia.Posts.Application.pdb
+C:\edu\courses\AwesomeSocialMedia\AwesomeSocialMedia.Posts\AwesomeSocialMedia.Posts.Application\obj\Debug\net7.0\ref\AwesomeSocialMedia.Posts.Application.dll

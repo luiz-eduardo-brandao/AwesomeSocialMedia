@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8OeLQqD5XNGpOHXWUmTJf7R08cgk928dgz5dR0cRclc=",
+  "Source": "AwesomeSocialMedia.APIGateway",
+  "BasePath": "_content/AwesomeSocialMedia.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

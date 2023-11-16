@@ -1,0 +1,38 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/posts/{everything}",
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5080
+        }
+      ],
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE" ]
+    },
+    {
+      // apigateway.com/newsfeed/api/users/12345/newsfeed GET
+      // microservicenewsfeed.com/api/users/12345/newsfeed GET
+
+      "UpstreamPathTemplate": "/newsfeed/{everything}",
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5224
+        }
+      ],
+      "UpstreamHttpMethod": [ "GET" ],
+      "RateLimitOptions": {
+        "ClientWhiteList": [],
+        "EnableRateLimiting": true,
+        "Period": "5s",
+        "PeriodTimespan": 5,
+        "Limit": 5
+      }
+    }
+  ]
+}

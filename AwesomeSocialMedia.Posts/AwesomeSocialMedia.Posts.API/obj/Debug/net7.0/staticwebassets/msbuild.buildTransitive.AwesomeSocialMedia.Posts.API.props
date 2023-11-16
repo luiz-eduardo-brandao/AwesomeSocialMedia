@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AwesomeSocialMedia.Posts.API.props" />
+</Project>
